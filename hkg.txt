@@ -1,4 +1,15 @@
-
+Create Registration Form where candidate will register their profile with below details      
+First Name     
+Last Name     
+Email     
+Mobile     
+Profile Pic     
+Password     
+Confirm Password  
+Apply jquery validation for the form. 
+Give Mandatory for all fields.
+Validation for mobile number  
+Validation for Password and confirm password  When the user submits the form he should get a confirmation message
 
 
 
